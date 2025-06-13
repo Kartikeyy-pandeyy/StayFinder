@@ -684,4 +684,3 @@ All admin routes require JWT authentication with the `admin` role.
 - **Postman Collection**: Available upon request for testing all endpoints.
 - **Sample Payloads**: Example request/response JSON is available in the backend codebase.
 - **Backend Codebase**: Refer to the `/routes` directory for route implementations and middleware logic.
-- **Contact**: Reach out to the API maintainer at `support@stayfinder.com` for further questions or custom integration needs.
